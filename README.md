@@ -1,7 +1,7 @@
-- 👋 Hi, I'm @FaisalSul, a web developer focusing on frontend development 💻
-- 👀 Passionate about clean designs and cutting-edge web technologies. 🎨
-- 🌱 Currently diving deep into HTML, CSS, JavaScript, and React.js. 🚀
-- 💞️ Open to collaborating on exciting frontend projects. Let's build something amazing together! 🌟
+* Hello, I’m @FaisalSul, a junior full-stack software developer with a focus on delivering comprehensive web solutions.
+* Dedicated to developing seamless, user-centered experiences and leveraging the latest web technologies.
+* Currently advancing my expertise in both frontend and backend technologies.
+* Open to collaborating on innovative full-stack projects. Let’s create something exceptional together!
 
 
 
